@@ -387,7 +387,7 @@ const achievementSection = {
     {
       title: "LIC Student of the Year - 2015",
       subtitle: "LIC STUDENT OF THE YEAR AWARD for excellence in academics throughout the year.",
-      image: require("./assets/images/LICLOGO.jpg"),
+      image: require("./assets/images/LIC.webp"),
       imageAlt: "PWA Logo",
       footerLink: [
         // {name: "Certification", url: ""},
