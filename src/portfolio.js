@@ -330,6 +330,27 @@ const achievementSection = {
 
   achievementsCards: [
     {
+      title: "Qube Icon Awards FY'26- Cruising & Crushing It",
+      subtitle:
+        "Honoured to be awarded for the consistent dedication towards building complex legacy products, being a self driven person to craft system design architectures and bring them to life with layers of code.",
+      image: require("./assets/images/Qubelogo.jpg"),
+      imageAlt: "Google Code-In Logo",
+      footerLink: [
+        // {
+        //   name: "Certification",
+        //   url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing"
+        // },
+        {
+          name: "Award Letter",
+          url: require("./assets/images/SnehaAward.png")
+        },
+        // {
+        //   name: "Google Code-in Blog",
+        //   url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html"
+        // }
+      ]
+    },
+    {
       title: "Excellence in Product Engineering - Nominee (DhanyaRajagopalan Award)",
       subtitle:
         "Honoured to be nominated for excellence in product engineering. This recognition reflects the dedication and constantly demonstrating a willingness to learn new things.",
@@ -367,23 +388,23 @@ const achievementSection = {
         }
       ]
     },
-    {
-      title: "Cambridge University of English",
-      subtitle:
-        "Business English Preliminary exam- Entry Level Certificate in ESOL International",
-      image: require("./assets/images/exam.png"),
-      imageAlt: "Google Assistant Action Logo",
-      footerLink: [
-        // {
-        //   name: "IBM Hack Challenge Winner Announcement",
-        //   url: require("./assets/images/ibmbanner.jpeg")
-        // },
-        // {
-        //   name: "Winners Video Speech",
-        //   url: "https://youtu.be/U7tgoxeZga8?si=gHzItlR-2EVBwp29"
-        // }
-      ]
-    },
+    // {
+    //   title: "Cambridge University of English",
+    //   subtitle:
+    //     "Business English Preliminary exam- Entry Level Certificate in ESOL International",
+    //   image: require("./assets/images/exam.png"),
+    //   imageAlt: "Google Assistant Action Logo",
+    //   footerLink: [
+    //     // {
+    //     //   name: "IBM Hack Challenge Winner Announcement",
+    //     //   url: require("./assets/images/ibmbanner.jpeg")
+    //     // },
+    //     // {
+    //     //   name: "Winners Video Speech",
+    //     //   url: "https://youtu.be/U7tgoxeZga8?si=gHzItlR-2EVBwp29"
+    //     // }
+    //   ]
+    // },
     {
       title: "LIC Student of the Year - 2015",
       subtitle: "LIC STUDENT OF THE YEAR AWARD for excellence in academics throughout the year.",
